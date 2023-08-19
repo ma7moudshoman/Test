@@ -20,9 +20,5 @@ public class PlayerService {
         return playerRepo.save(player);
 
     }
-    public Player GetPlayer(String name){
-        Player p =new Player();
-        p.setName(name);
-        return playerRepo.findByName(name);
-    }
+
 }
