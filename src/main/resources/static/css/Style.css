@@ -25,5 +25,10 @@ margin: 100px 0px 0px 200px;
 }
 .add
 {
-    margin : 150px;
+    margin-left : 200px;
+    margin-top:5px;
 }
+.mybtn
+{
+    font-size: 14px;
+ }
